@@ -1,0 +1,10 @@
+strands-agents>=0.1.0
+strands-agents-tools>=0.1.0
+fastapi
+uvicorn
+boto3
+Pillow
+streamlit
+aws-cdk-lib
+constructs>=10.0.0
+moviepy
